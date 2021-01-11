@@ -1,0 +1,1 @@
+Automated Teeth Extraction from Dental Panoramic X-Ray Images using Genetic Algorithm
